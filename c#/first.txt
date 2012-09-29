@@ -1,1 +1,5 @@
 This is first c# file.
+[0mtotal 1
+-rw-r--r--    1 abhiram  Administ       24 Sep 29 19:03 [0mfirst.txt[0m
+-rw-r--r--    1 abhiram  Administ       25 Sep 29 18:29 [0mreadme.txt[0m
+[m
